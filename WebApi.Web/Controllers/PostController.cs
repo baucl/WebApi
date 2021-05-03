@@ -47,7 +47,7 @@ namespace WebApi.Web.Controllers
             }
         }
 
-        [HttpGet("GetPostCommentsByNumber/{postId}/comments")]
+        [HttpGet("GetPostCommentsById/{postId}/comments")]
         public async Task<ActionResult<CommentsDtoResopnse>> GetPostCommentsByNumber(string postId)
         {
             try
