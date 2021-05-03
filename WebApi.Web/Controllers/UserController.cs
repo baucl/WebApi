@@ -33,8 +33,8 @@ namespace WebApi.Web.Controllers
             }
         }
 
-        [HttpGet("GetUserAlbumByIdAsync/{id}")]
-        public async Task<ActionResult<UsersDtoAlbumsResponse>> GetUserAlbumByIdsAsync(string id)
+        [HttpGet("GetUserAlbumById/{id}")]
+        public async Task<ActionResult<UsersDtoAlbumsResponse>> GetUserAlbumById(string id)
         {
             try
             {
@@ -46,8 +46,8 @@ namespace WebApi.Web.Controllers
             }
         }
 
-        [HttpGet("GetUserTodosByIdAsync/{id}")]
-        public async Task<ActionResult<UsersDtoTodosResponse>> GetUserTodosByIdsAsync(string id)
+        [HttpGet("GetUserTodosById/{id}")]
+        public async Task<ActionResult<UsersDtoTodosResponse>> GetUserTodosById(string id)
         {
             try
             {
@@ -59,8 +59,8 @@ namespace WebApi.Web.Controllers
             }
         }
 
-        [HttpGet("GetUserPostsByIdAsync/{id}")]
-        public async Task<ActionResult<UsersDtoPostsResponse>> GetUserPostsByIdsAsync(string id)
+        [HttpGet("GetUserPostsById/{id}")]
+        public async Task<ActionResult<UsersDtoPostsResponse>> GetUserPostsById(string id)
         {
             try
             {
