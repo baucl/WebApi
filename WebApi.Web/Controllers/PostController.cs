@@ -21,7 +21,7 @@ namespace WebApi.Web.Controllers
             _postService = postService;
         }
 
-        [HttpGet("GetAllPost")]
+        [HttpGet("GetAllPosts")]
         public async Task<ActionResult<PostsDtoResponse>> GetAllPost(string userId)
         {
             try
