@@ -181,7 +181,12 @@ namespace WebApi.Core.Services
             foreach (var value in valuesPatchFields)
             {
                 if (!String.IsNullOrEmpty(value.Value))
-                    infoMapped.Add(value.Key, value.Value);
+                {
+                    if (value.Value != "0")
+                    {
+                        infoMapped.Add(value.Key, value.Value);
+                    }
+                }
             }
 
             var result = await _postsRepository.UpdateResourcePost(infoMapped, id);
