@@ -34,7 +34,7 @@ namespace WebApi.Web.Controllers
             }
         }
 
-        [HttpGet("GetPostByNumber/{postId}")]
+        [HttpGet("GetPostById/{postId}")]
         public async Task<ActionResult<PostsDtoResponse>> GetPostByNumber(string postId)
         {
             try
