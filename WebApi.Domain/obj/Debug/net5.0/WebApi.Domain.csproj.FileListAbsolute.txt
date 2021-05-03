@@ -1,0 +1,11 @@
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/bin/Debug/net5.0/WebApi.Domain.deps.json
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/bin/Debug/net5.0/WebApi.Domain.dll
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/bin/Debug/net5.0/ref/WebApi.Domain.dll
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/bin/Debug/net5.0/WebApi.Domain.pdb
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/WebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/WebApi.Domain.AssemblyInfoInputs.cache
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/WebApi.Domain.AssemblyInfo.cs
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/WebApi.Domain.csproj.CoreCompileInputs.cache
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/WebApi.Domain.dll
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/ref/WebApi.Domain.dll
+/Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/WebApi.Domain.pdb

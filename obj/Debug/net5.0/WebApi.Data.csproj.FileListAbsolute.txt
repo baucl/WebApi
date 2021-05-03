@@ -1,0 +1,12 @@
+/Users/isracarballo/Projects/WebApi.Data/bin/Debug/net5.0/WebApi.Data.deps.json
+/Users/isracarballo/Projects/WebApi.Data/bin/Debug/net5.0/WebApi.Data.dll
+/Users/isracarballo/Projects/WebApi.Data/bin/Debug/net5.0/ref/WebApi.Data.dll
+/Users/isracarballo/Projects/WebApi.Data/bin/Debug/net5.0/WebApi.Data.pdb
+/Users/isracarballo/Projects/WebApi.Data/obj/Debug/net5.0/WebApi.Data.csprojAssemblyReference.cache
+/Users/isracarballo/Projects/WebApi.Data/obj/Debug/net5.0/WebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isracarballo/Projects/WebApi.Data/obj/Debug/net5.0/WebApi.Data.AssemblyInfoInputs.cache
+/Users/isracarballo/Projects/WebApi.Data/obj/Debug/net5.0/WebApi.Data.AssemblyInfo.cs
+/Users/isracarballo/Projects/WebApi.Data/obj/Debug/net5.0/WebApi.Data.csproj.CoreCompileInputs.cache
+/Users/isracarballo/Projects/WebApi.Data/obj/Debug/net5.0/WebApi.Data.dll
+/Users/isracarballo/Projects/WebApi.Data/obj/Debug/net5.0/ref/WebApi.Data.dll
+/Users/isracarballo/Projects/WebApi.Data/obj/Debug/net5.0/WebApi.Data.pdb

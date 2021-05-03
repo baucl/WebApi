@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgdPEh1Q0TIYkWPI+a+eTSkwf6w8L4EmfKLMeTz9se7cE6brxdaREwqR4bSFg9Q+kh98d1JvOs1Dv0PtQFc9YQ==",
+  "success": true,
+  "projectFilePath": "/Users/isracarballo/Desktop/Web.Api/WebApi.Core/WebApi.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/isracarballo/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.5/microsoft.aspnetcore.jsonpatch.5.0.5.nupkg.sha512",
+    "/Users/isracarballo/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/isracarballo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
