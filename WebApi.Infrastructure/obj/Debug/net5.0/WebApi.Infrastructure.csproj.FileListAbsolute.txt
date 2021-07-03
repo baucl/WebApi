@@ -15,3 +15,20 @@
 /Users/isracarballo/Projects/WebApi.Data/WebApi.Infrastructure/obj/Debug/net5.0/WebApi.Infrastructure.dll
 /Users/isracarballo/Projects/WebApi.Data/WebApi.Infrastructure/obj/Debug/net5.0/ref/WebApi.Infrastructure.dll
 /Users/isracarballo/Projects/WebApi.Data/WebApi.Infrastructure/obj/Debug/net5.0/WebApi.Infrastructure.pdb
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\bin\Debug\net5.0\WebApi.Infrastructure.deps.json
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\bin\Debug\net5.0\WebApi.Infrastructure.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\bin\Debug\net5.0\ref\WebApi.Infrastructure.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\bin\Debug\net5.0\WebApi.Infrastructure.pdb
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\bin\Debug\net5.0\WebApi.Core.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\bin\Debug\net5.0\WebApi.Domain.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\bin\Debug\net5.0\WebApi.Core.pdb
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\bin\Debug\net5.0\WebApi.Domain.pdb
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\WebApi.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\WebApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\WebApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\WebApi.Infrastructure.AssemblyInfo.cs
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\WebApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\WebApi.Infrastructure.csproj.CopyComplete
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\WebApi.Infrastructure.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\ref\WebApi.Infrastructure.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Infrastructure\obj\Debug\net5.0\WebApi.Infrastructure.pdb

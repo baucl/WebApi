@@ -9,3 +9,15 @@
 /Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/WebApi.Domain.dll
 /Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/ref/WebApi.Domain.dll
 /Users/isracarballo/Projects/WebApi.Data/WebApi.Domain/obj/Debug/net5.0/WebApi.Domain.pdb
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\bin\Debug\net5.0\WebApi.Domain.deps.json
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\bin\Debug\net5.0\WebApi.Domain.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\bin\Debug\net5.0\ref\WebApi.Domain.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\bin\Debug\net5.0\WebApi.Domain.pdb
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\obj\Debug\net5.0\WebApi.Domain.csprojAssemblyReference.cache
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\obj\Debug\net5.0\WebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\obj\Debug\net5.0\WebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\obj\Debug\net5.0\WebApi.Domain.AssemblyInfo.cs
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\obj\Debug\net5.0\WebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\obj\Debug\net5.0\WebApi.Domain.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\obj\Debug\net5.0\ref\WebApi.Domain.dll
+C:\Users\Israel Carballo\source\repos\WebApi\WebApi.Domain\obj\Debug\net5.0\WebApi.Domain.pdb
